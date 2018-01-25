@@ -4,4 +4,4 @@
 
 [Lazarone Santana](http://lazaronesantana.com)
 
-![Udemy](https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg)
+[![Udemy](https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg)](https://www.udemy.com)
