@@ -1,3 +1,6 @@
 composer-gerenciador-de-dependencias-para-php/logs/*
 composer-gerenciador-de-dependencias-para-php/vendor/*
 composer-gerenciador-de-dependencias-para-php/composer.lock
+
+composer-para-iniciantes/vendor/*
+composer-para-iniciantes/composer.lock

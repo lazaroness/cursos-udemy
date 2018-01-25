@@ -1,0 +1,22 @@
+{
+    "name": "lazaroness/curso-udemy-composer-para-iniciantes",
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "php-activerecord/php-activerecord": "^1.2"
+    },
+    "autoload": {
+      "psr-4": {
+        "app\\": "app"
+      },
+      "files": [
+        "app/helpers/default.php"
+      ]
+    },
+    "authors": [
+      {
+        "name": "Lazarone S. Santana",
+        "email": "lazarone.info.web@gmail.com"
+      }
+    ]
+}
