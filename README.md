@@ -1,4 +1,4 @@
-# Repositorio para os cursos feitos na Udemy.com
+# Repositório para os cursos feitos na Udemy.com
 
 **Lazarone S. Santana** - <lazarone.info.web@gmail.com>
 
