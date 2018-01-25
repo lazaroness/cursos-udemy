@@ -1,0 +1,16 @@
+{
+    "name": "www.lazaronesantana.com/curso-udemy-composer2",
+    "require": {
+        "monolog/monolog": "^1.23",
+        "php": ">7.0.0"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "^4.3"
+    },
+    "authors": [
+        {
+            "name": "Lazarone Santana",
+            "email": "lazarone.info.web@gmail.com"
+        }
+    ]
+}
